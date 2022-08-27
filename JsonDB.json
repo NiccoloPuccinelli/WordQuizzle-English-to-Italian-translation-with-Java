@@ -1,0 +1,79 @@
+{
+  "Benedetta": {
+    "user": "Benedetta",
+    "password": "123",
+    "listaAmici": [
+      "Alessandro",
+      "Daniele",
+      "Giuseppe"
+    ],
+    "punteggio": 281
+  },
+  "Alessandro": {
+    "user": "Alessandro",
+    "password": "123",
+    "listaAmici": [
+      "Andrea",
+      "Benedetta",
+      "Daniele",
+      "Matteo"
+    ],
+    "punteggio": 0
+  },
+  "Samuele": {
+    "user": "Samuele",
+    "password": "123",
+    "listaAmici": [],
+    "punteggio": 0
+  },
+  "Daniele": {
+    "user": "Daniele",
+    "password": "123",
+    "listaAmici": [
+      "Alessandro",
+      "Benedetta",
+      "Matteo",
+      "Andrea",
+      "Giuseppe",
+      "Nicola"
+    ],
+    "punteggio": 269
+  },
+  "Giuseppe": {
+    "user": "Giuseppe",
+    "password": "123",
+    "listaAmici": [
+      "Benedetta",
+      "Daniele"
+    ],
+    "punteggio": 0
+  },
+  "Matteo": {
+    "user": "Matteo",
+    "password": "123",
+    "listaAmici": [
+      "Andrea",
+      "Alessandro",
+      "Daniele"
+    ],
+    "punteggio": 0
+  },
+  "Nicola": {
+    "user": "Nicola",
+    "password": "123",
+    "listaAmici": [
+      "Daniele"
+    ],
+    "punteggio": 9
+  },
+  "Andrea": {
+    "user": "Andrea",
+    "password": "123",
+    "listaAmici": [
+      "Alessandro",
+      "Matteo",
+      "Daniele"
+    ],
+    "punteggio": 0
+  }
+}
