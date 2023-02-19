@@ -1,4 +1,4 @@
-# Reti di Calcolatori
+# WordQuizzle English to Italian translation with Java
 
 Development of a quiz challenge between two players, concerning the simultaneous translation of words from English to Italian, via **TCP-IP** and **UDP** communication. The language used is **Java**.
 
